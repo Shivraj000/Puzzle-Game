@@ -54,7 +54,7 @@ body::after {
 }
 
 .wrapper {
-  width: 530px; /* Increased from 430px */
+  width: 530px; 
   background: rgba(255, 255, 255, 0.1);
   border-radius: 10px;
   box-shadow: 0 15px 40px rgba(0, 255, 255, 0.2);
@@ -84,7 +84,7 @@ body::after {
   padding-bottom: 10px;
 }
 
-/* Enhanced input box styling */
+
 .inputs input {
   height: 57px;
   width: 56px;
@@ -149,7 +149,7 @@ body::after {
   background: #00d5a3;
 }
 
-/* Responsive layout */
+
 @media screen and (max-width: 560px) {
   .wrapper {
     width: 100%;
